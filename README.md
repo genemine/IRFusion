@@ -11,7 +11,7 @@ IRFusion is implemented in Python and can run on Linux and Mac operating systems
 
 | Version        | Changes           |
 | :-------------: | :----------------: |
-|  [IRFusion.zip](https://github.com/genemine/IRFusion/raw/master/history_version/IRFusion.zip)     | Multi-thread computing implemented |
+|  [IRFusion.zip](https://drive.google.com/u/0/uc?id=1CrGahrLh-8g9kNintLzjNHpQrppyMKgu&export=download)     | Multi-thread computing implemented |
 
 
 
