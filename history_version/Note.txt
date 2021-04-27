@@ -1,0 +1,2 @@
+The model is too big, so we put the complete software package in Google drive.
+Please download the complete IRFusion from "1.2 Download" of README.md.
